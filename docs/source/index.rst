@@ -6,7 +6,7 @@ Before starting a research project using the EEG, check the Project Design Consi
 
 .. note::
 
-   This project is under active development.
+   This guide is under active development. Please suggest improvements you would find helpful!
 
 Contents
 --------
