@@ -15,5 +15,3 @@ Contents
 
    project_design
    eeg_user_guide
-   usage
-   api
