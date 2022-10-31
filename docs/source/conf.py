@@ -4,6 +4,7 @@
 
 project = 'Franciscan EEG Guide'
 author = 'Baxley'
+copyright = '2022'
 
 release = '0.1'
 version = '0.1.0'
