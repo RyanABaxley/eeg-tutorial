@@ -13,5 +13,6 @@ Contents
 
 .. toctree::
 
+   project_design
    usage
    api
