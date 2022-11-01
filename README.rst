@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Welcome to the Franciscan EEG Guide!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This guide is a collaborative project consisting of students, professors, and alumni, so please leave feedback for the developers!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Before starting a research project using the EEG, check the Project Design Considerations page. When ready for experimentation, refer to the EEG User Guide. After recording values, check out the Signal Processing Techniques page. For any experienced errors or questions, read the Technical Support and FAQ’s pages. If you still have further questions, please reach out to the developers!
